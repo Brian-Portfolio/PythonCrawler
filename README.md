@@ -10,4 +10,4 @@ This program is user-friendly for anyone who wants to track or log updated infor
 # Requirements
 **Dependencies**
 
- -
+ -pip install libraries csv, scrapy
