@@ -7,7 +7,7 @@ The following Python crawler program takes in a a specfic URL from a pre-existin
 This program is user-friendly for anyone who wants to track or log updated information from a specific website.  
 
 
-#Requirements
+# Requirements
 **Dependencies**
 
  -
